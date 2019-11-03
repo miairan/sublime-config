@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Git",
+		"Golang Tools Integration",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"SyncedSideBar"
+	]
+}
